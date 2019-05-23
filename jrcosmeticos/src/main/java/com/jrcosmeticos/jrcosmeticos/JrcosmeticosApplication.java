@@ -10,6 +10,7 @@ public class JrcosmeticosApplication {
 		SpringApplication.run(JrcosmeticosApplication.class, args);
         //Adicionando um comentario aqui.
         //Adicionando nova branch.
+        //nova branch
 	}
 
 }
