@@ -47,17 +47,15 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.0.8</version>
+			
+			
 		</dependency>
 
 		<!-- Migrações flyway -->
 		<dependency>
-			<groupId>org.flywaydb</groupId>	
+			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-core</artifactId>
-		</dependency>	
-
-
-
-
+		</dependency>
 	</dependencies>
 
 

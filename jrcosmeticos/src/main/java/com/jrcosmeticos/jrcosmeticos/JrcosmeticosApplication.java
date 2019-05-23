@@ -8,9 +8,6 @@ public class JrcosmeticosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JrcosmeticosApplication.class, args);
-        //Adicionando um comentario aqui.
-        //Adicionando nova branch.
-        //nova branch
 	}
 
 }
