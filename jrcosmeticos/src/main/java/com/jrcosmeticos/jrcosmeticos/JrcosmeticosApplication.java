@@ -8,6 +8,8 @@ public class JrcosmeticosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JrcosmeticosApplication.class, args);
+        
+        //comentario;
 	}
 
 }
