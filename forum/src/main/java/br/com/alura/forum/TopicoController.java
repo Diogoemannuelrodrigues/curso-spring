@@ -16,12 +16,9 @@ public class TopicoController {
 	@RequestMapping("/topicos")
 	public List<TopicoDTO> listao() {
 		
-		List<Topico> toc = new ArrayList<>();
+		List<TopicoDTO> toc = new ArrayList<>();
 		
-		Topico topico = new Topico("Teste 1", "Adicionando 1º. topico", new Curso("Java Spring", "Programação"));
-		Topico topico2 = new Topico("Teste 1", "Adicionando 1º topico", new Curso("Java Spring", "Programação"));
-		toc.add(topico);
-		toc.add(topico2);
+	
 
 		return toc;
 	}
